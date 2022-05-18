@@ -1,6 +1,6 @@
-baseURL = "https://lines-hugo-theme.netlify.app/"
+baseURL = "https://barretts.club/"
 languageCode = "en-us"
-title = "Lines - Minimalist Hugo theme"
+title = "Barrett's Club"
 disableKinds = ["section", "categories"]
 disqusShortname = ""
 pygmentsCodeFences = false
@@ -83,3 +83,9 @@ minify = true
     name       = "RSS"
     url        = "/atom.xml"
     weight     = -10
+
+#  [[menu.main]]
+#  	identifier = ""
+#  	name 	   = ""
+#  	url        = ""
+#  	weight	   = -9
