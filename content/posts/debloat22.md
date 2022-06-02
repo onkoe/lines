@@ -10,12 +10,12 @@ tags:
 - ltsc
 ---
 
-[In our previous article](/2022/05/18/ltsc22/), you learned how to prime installation media and properly install Windows 10 LTSC on your computer. This time around, you'll learn how to setup your LTSC system for maximum gaming performance. We'll install the Scoop package manager for app security, activate the OS with KMS, safely strip the system of some extras, then install some useful apps. 
+[In our previous article](/2022/05/18/ltsc22/), you learned how to prime installation media and properly install Windows 10 LTSC on your computer. This time around, you'll learn how to setup your LTSC system for maximum gaming performance. We'll install the Scoop package manager for app security, activate the OS with KMS, and safely strip the system of some extras. 
 
 # Installing Firefox
 Before we can focus on the rest of the system, your installation needs to be activated. We'll need a modern browser to do this, and Edge won't let you download the activation tool. 
 
-As such, we'll install Firefox. Open [this link](https://www.mozilla.org/en-US/firefox/new/), then follow the on-screen instructions. Optionally, you can install uBlock Origin for content blocking - some pages may have confusing download advertisements. Just [click here](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), then click _Add_!
+As such, we'll install Firefox. Download and open the installer using [this link](https://www.mozilla.org/en-US/firefox/new/), then follow the on-screen instructions. Optionally, you can install uBlock Origin for content blocking - some pages may have confusing download advertisements. Just [click here](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), then click _Add_!
 
 ![It doesn't look like much, but UBO will save you a lot of trouble...](https://archive.org/download/screenshot-from-2022-06-02-12-38-07/Screenshot%20from%202022-06-02%2012-38-07.png)
 
@@ -27,7 +27,7 @@ For most people, LTSC product keys are quite difficult to obtain legally. If you
 
 Installing KMS is simple. [Go to its GitHub link](https://raw.githubusercontent.com/abbodi1406/KMS_VL_ALL_AIO/master/KMS_VL_ALL_AIO.cmd), then press Ctrl + S to save it. If Windows Defender pops up, you can allow the script to stay - Microsoft doesn't like it when you try to activate their products like this.
 
-Finally, you can run the script by double clicking on it. When you do so, Windows will try to scare you with [a red warning box](https://archive.org/download/screenshot-from-2022-05-20-10-16-31/Screenshot%20from%202022-05-20%2010-16-31.png). If you think it'll be okay, click _More info_, then _Run anyways_. 
+Finally, you can run the script by double clicking on it. When you do so, Windows will try to scare you with [a red warning box](https://archive.org/download/screenshot-from-2022-05-20-10-16-31/Screenshot%20from%202022-05-20%2010-16-31.png). If you think it'll be okay, click _More info_, then _run anyway_. 
 
 When KMS starts, it'll ask you to select one of a few options. Press _2_ on your keyboard to install the auto-renewing license - your system will be activated forever. When it's done, press _0_ to escape.
 
