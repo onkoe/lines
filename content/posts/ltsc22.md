@@ -73,6 +73,6 @@ If all of that went well, you'll now be asked to wait for some time, then you'll
 
 # All Done!
 
-If you only wanted to install Windows and you already have a product key for LTSC, you don't need to read further. Otherwise, continue on to see how to activate your install and make your machine as fast as it can be!
+If you only wanted to install Windows and you already have a product key for LTSC, you don't need to read further. Otherwise, [continue on to our next article](/2022/06/02/debloat22/). You'll see how to activate your install and make your machine as fast as it can be! 
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 2.0 Generic License](http://creativecommons.org/licenses/by-sa/2.0/).
