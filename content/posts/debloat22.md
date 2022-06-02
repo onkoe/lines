@@ -68,3 +68,5 @@ The next tool we'll use is called WPD. You'll have to install and run it manuall
 Congratulations! You now have a fully-activated Windows 10 LTSC system that is ready for competitive gaming! 
 
 ![Happy gamer](https://archive.org/download/matheus-de-souza-t1aXvVUEH0o-unsplash/matheus-de-souza-t1aXvVUEH0o-unsplash.jpg)
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 2.0 Generic License](http://creativecommons.org/licenses/by-sa/2.0/).
