@@ -15,10 +15,12 @@ I didn't realize that these features eroded what made Minecraft simple. I asked 
 I went through a mental list. I get netherite tools, fix up a small shack with 30 double chests, then farm all the useful blocks in the game. That usually takes me just a few days of gameplay, and I get burnt out immediately after taking those steps. Below is an image of that suffering. 
 
 ![At least I get to avoid messing with these guys!](https://i.imgur.com/Ow3xUxj.png)
+##### At least I get to avoid messing with these guys!
 
 But it wasn't always like that. Once upon a time, Minecraft had almost nothing to farm and little to automate. The gameplay loop was small. You rearranged your world to look how you wanted it, then made minor upgrades to your armor and tools. 
 
 ![*some people* got pretty passionate!](https://i.imgur.com/4OB1R8S.png)
+##### *some people* got pretty passionate!
 
 Over a decade later, the gameplay has completely changed. Instead of a game for your creativity, modern Minecraft brings out your inner completionist - all on accident. Speed upgrades on tools and farms are always possible but require extreme game knowledge. 
 
