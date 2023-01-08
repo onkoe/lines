@@ -17,7 +17,7 @@ Before we can focus on the rest of the system, your installation needs to be act
 
 As such, we'll install Firefox. Download and open the installer using [this link](https://www.mozilla.org/en-US/firefox/new/), then follow the on-screen instructions. Optionally, you can install uBlock Origin for content blocking - some pages may have confusing download advertisements. Just [click here](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), then click _Add_!
 
-![It doesn't look like much, but UBO will save you a lot of trouble...](https://archive.org/download/screenshot-from-2022-06-02-12-38-07/Screenshot%20from%202022-06-02%2012-38-07.png)
+##### It doesn't look like much, but UBO will save you a lot of trouble...
 
 Now that you have Firefox, you can continue with the installation. 
 
@@ -27,33 +27,31 @@ For most people, LTSC product keys are quite difficult to obtain legally. If you
 
 Installing KMS is simple. [Go to its GitHub link](https://raw.githubusercontent.com/abbodi1406/KMS_VL_ALL_AIO/master/KMS_VL_ALL_AIO.cmd), then press Ctrl + S to save it. If Windows Defender pops up, you can allow the script to stay - Microsoft doesn't like it when you try to activate their products like this.
 
-Finally, you can run the script by double clicking on it. When you do so, Windows will try to scare you with [a red warning box](https://archive.org/download/screenshot-from-2022-05-20-10-16-31/Screenshot%20from%202022-05-20%2010-16-31.png). If you think it'll be okay, click _More info_, then _run anyway_. 
+Finally, you can run the script by double clicking on it. When you do so, Windows will try to scare you with a red warning box. If you think it'll be okay, click _More info_, then _run anyway_. 
 
 When KMS starts, it'll ask you to select one of a few options. Press _2_ on your keyboard to install the auto-renewing license - your system will be activated forever. When it's done, press _0_ to escape.
 
-![KMS makes you feel like someone in Mr. Robot](https://archive.org/download/screenshot-from-2022-05-20-10-16-59/Screenshot%20from%202022-05-20%2010-16-59.png)
+##### KMS makes you feel like someone in Mr. Robot...
 
 Your installation should be [activated now](https://archive.org/download/screenshot-from-2022-05-20-10-18-33/Screenshot%20from%202022-05-20%2010-18-33.png)! 
 
 # Tweaking Your System
 Windows 10 LTSC is relatively clean in comparison to most Windows versions, but you'll probably still want to remove some of the background telemetry and data collection. You can do this with two tools. Install the first, Winaero Tweaker, [using this link](https://winaerotweaker.com/download/) . 
 
-When it's done, it'll appear in your Start menu. Go ahead and launch it. To continue, hit _I AGREE_ to their license, then allow it superuser permissions. At the top left, you'll [see a search bar](https://archive.org/download/2022-06-02-13-11-1/2022-06-02_13-11_1.png). Search for the following settings and toggle them as direted: 
+When it's done, it'll appear in your Start menu. Go ahead and launch it. To continue, hit _I AGREE_ to their license, then allow it superuser permissions. At the top left, you'll [see a search bar](https://archive.org/download/2022-06-02-13-11-1/2022-06-02_13-11_1.png). Search for the following settings and check their boxes: 
 - Ads and Unwanted Apps
-	- Check Disable ads in Windows 10
+	- Disable ads in Windows 10
 	- Ensure everything below it is checked as well
 - Error Reporting
-	- Check Disable Error Reporting
+	- Disable Error Reporting
 - Power Throttling
-	- Check Disable Power Throttling (FOR DESKTOP PCs ONLY!)
+	- Disable Power Throttling (FOR DESKTOP PCs ONLY!)
 - Disable Action Center
-	- Check Disable Action Center
 - Disable Live Tiles
-	- Check Disable Live Tiles
 - Disable Web Search
-	- Check Disable web search and taskbar and Cortana
+	- Disable web search and taskbar and Cortana
 - Disable Telemetry
-	- Check Disable telemetry and data collection
+	- Disable telemetry and data collection
 - Activate Windows Photo Viewer
 	- Click Activate Windows Photo Viewer
 
@@ -66,7 +64,5 @@ The next tool we'll use is called WPD. You'll have to install and run it manuall
 # All Done!
 
 Congratulations! You now have a fully-activated Windows 10 LTSC system that is ready for competitive gaming! 
-
-![Happy gamer](https://archive.org/download/matheus-de-souza-t1aXvVUEH0o-unsplash/matheus-de-souza-t1aXvVUEH0o-unsplash.jpg)
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 2.0 Generic License](http://creativecommons.org/licenses/by-sa/2.0/).
