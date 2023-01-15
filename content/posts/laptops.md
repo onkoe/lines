@@ -74,6 +74,14 @@ This machine would be great with a better processor!
 
 This machine has a great design, but some parts of the device are outdated or locked down. An updated version using common parts would be great!
 
+### [TUXEDO InfinityBook Pro 14 (Gen7)](https://www.tuxedocomputers.com/en/TUXEDO-InfinityBook-Pro-14-Gen7.tuxedo)
+- Battery: Perfect! 99 Wh!
+- Display: Perfect! 16:10 at 1800p, with 400 nits of power!
+- Panel size: Perfect! 14 inches!
+- Processor: Not ideal. The Intel Core 12k and 13k series processors are power hungry and run hot. The i7-12000H is no exception. 
+- Linux support: Yes!
+
+So far, this is my favorite machine. A Ryzen version would be the perfect laptop in my view. 
 
 ## Conclusion
 Do you see a laptop that fits these specs and isn't on the list? [Tweet](https://twitter.com/OnkoeR6)/[Toot](https://c.im/@onkoe) at me! You can also [email me](contact@barretts.club) with more information or [make an issue on GitHub](https://github.com/onkoe/lines)!
