@@ -105,13 +105,23 @@ Earlier, I wrote that "Since the Framework Laptops are easily modifiable, it may
 
 "This is (somehow) a lot cheaper than other options, but needs additional research to rationalize buying everything."
 
-Definitely worth the fireworks on my lap a few months later! 🥰️🔥️
+Definitely worth the fireworks on my lap a few months later! 🥰️ 🔥️
 
 ### [Framework Laptop 16" (2023)](https://frame.work/laptop-16)
 
 This machine hasn't been released, but other than its large display, it will probably fit my needs well.
 
 I'm keeping watch!
+
+### [ASUS Vivobook S 14X OLED](https://www.asus.com/laptops/for-home/vivobook/vivobook-s-14x-oled-m5402-amd-ryzen-6000-series/)
+
+- Battery: Good! 70Wh.
+- Display: Perfect! 1800p at 16:10, running at 600 nits (!!!)
+- Panel size: Perfect! 14.5 inches.
+- Processor: Great, but the beefier 6800H/HS and especially the 6900HX are way above anything I need. They may also take more power when running above idle than other efficient chips.
+- Linux support: Yes! Or at the very least, the M5402RAs running [here](https://linux-hardware.org/?view=computers&year=2022&type=Notebook&vendor=ASUSTek+Computer&model_like=VivoBook_ASUSLaptop&page=1) seem to be plenty happy...
+
+I like this machine, but I'd like to see a version with a less beefy CPU.
 
 ## Conclusion
 
