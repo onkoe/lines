@@ -91,6 +91,28 @@ This machine has a great design, but some parts of the device are outdated or lo
 
 So far, this is my favorite machine. A Ryzen version would be the perfect laptop in my view.
 
+### [Framework Laptop 13.5" (2023)](https://frame.work/products/laptop-diy-13-gen-amd)
+
+- Battery: Not ideal. 55 or 61wh options. [But I'm working on this :)](https://community.frame.work/t/90-wh-batteries/28169)
+- Display: Perfect! 1504p at 3:2, running at over 400 nits.
+- Panel size: Perfect! 13.5 inches.
+- Processor: Perfect! Modern Ryzen processors are efficient and powerful.
+- Linux support: Yes, officially supported!
+
+I adore this machine in almost every way, but its battery is too small. However, the rest of the machine is so great that I've considered just machining a new bottom chasis and inserting a much larger battery.
+
+Earlier, I wrote that "Since the Framework Laptops are easily modifiable, it may be a good idea to give a battery swap a try! I could machine a lower case replacement using the machine shop, then stick in a compatible battery."
+
+"This is (somehow) a lot cheaper than other options, but needs additional research to rationalize buying everything."
+
+Definitely worth the fireworks on my lap a few months later! 🥰️🔥️
+
+### [Framework Laptop 16" (2023)](https://frame.work/laptop-16)
+
+This machine hasn't been released, but other than its large display, it will probably fit my needs well.
+
+I'm keeping watch!
+
 ## Conclusion
 
 Do you see a laptop that fits these specs and isn't on the list? [Tweet](https://twitter.com/OnkoeR6)/[Toot](https://c.im/@onkoe) at me! You can also [email me](contact@barretts.club) with more information or [make an issue on GitHub](https://github.com/onkoe/lines)!
